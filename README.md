@@ -1,1 +1,1 @@
-# bilgisayaci-vueogreniyoruz
+# bilgisayaci-vueogreniyoruz-egitim-serisi
