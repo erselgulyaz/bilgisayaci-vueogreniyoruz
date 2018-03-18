@@ -1,18 +1,18 @@
 <template>
   <div id="app">
-    {{message}}
+    <basic-component customText="deneme" />
   </div>
 </template>
 
 <script>
+import BasicComponent from './components/BasicComponent.vue'
 export default {
-  data () {
-    return {
-      message: 'Hello World!'
-    }
+  components: {
+    BasicComponent
   }
 }
 </script>
 
-<style lang="scss">
+<style lang="scss" scoped>
+
 </style>
